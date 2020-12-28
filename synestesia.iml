@@ -10,7 +10,7 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/jlayer1.0/JLayer1.0/out/artifacts/JLayer1_0_jar/JLayer1.0.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jlayer1.0/JLayer1.0/jl1.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
